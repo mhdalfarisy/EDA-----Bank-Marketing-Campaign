@@ -2,25 +2,25 @@
 
 <hr>
 
-![cover](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/2.jpg)
+![cover](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/1.jpg)
 
 Latar Belakang : 
-[![LB]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/2.jpg))]
+![LB](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/2.jpg)
 
 Goal Analisa :
-[![LB]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/3.jpg))]
+![GA](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/3.jpg)
 
 Penjelasan Pemilihan Dataset :
-[![PD]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/4.jpg))]
+![PMD](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/4.jpg)
 
 Filter Missing Values :
-[![FM]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/5.jpg))]
+![PMV](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/5.jpg)
 
 Insert New Columns :
-[![INC]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/6.jpg))]
+![INC](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/6.jpg)
 
 Drop Columns :
-[![DC]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/7.jpg))]
+![DC](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/7.jpg)
 
 <hr>
 
