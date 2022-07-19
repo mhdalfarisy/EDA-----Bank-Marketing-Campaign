@@ -1,6 +1,6 @@
 # EDA-Bank-Marketing-Campaign
 Tim Assesment 4 :
-- Jeffry Junior Tedjasuklaksana
+![Jeffry Junior Tedjasuklaksana](https://github.com/HanifahNurfahmi)
 - Hanifah Nurfahmi
 - Muhammad Al-farisy
 
