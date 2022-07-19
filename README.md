@@ -1,8 +1,11 @@
 # EDA-Bank-Marketing-Campaign
 Tim Assesment 4 :
-[Jeffry Junior Tedjasuklaksana](https://github.com/JeffreyJuinior) 
-[Hanifah Nurfahmi](https://github.com/HanifahNurfahmi) 
-[Muhammad Al-farisy](https://github.com/mhdalfarisy) 
+
+- [Jeffry Junior Tedjasuklaksana](https://github.com/JeffreyJuinior) 
+- 
+- [Hanifah Nurfahmi](https://github.com/HanifahNurfahmi) 
+- 
+- [Muhammad Al-farisy](https://github.com/mhdalfarisy) 
 
 # Business Problem
 - Database Bank marketing campaigns : Data yang menggambarkan hasil pemasaran Bank Portugal. Pemasaran yang dilakukan sebagian besar didasarkan pada panggilan telepon langsung, menawarkan nasabah bank untuk menempatkan deposito. Namun banyaknya nasabah yang menolak membuka rekening deposito membuat **Tim Sales harus membuat strategi untuk menambah nasabah membuka deposito**.
