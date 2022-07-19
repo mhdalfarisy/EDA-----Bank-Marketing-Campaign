@@ -29,6 +29,7 @@
 ![DC](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/7.jpg)
 
 ### **Business Question 1 :**
+#### Insight : Lebih banyak orang yang mau untuk melakukan deposito saat dihubungi melalui cellular yaitu 13% dari seluruh orang yang setuju melakukan deposito. 
 
 ![BQ1](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/8.jpg)
 
