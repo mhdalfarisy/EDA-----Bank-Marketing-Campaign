@@ -2,9 +2,7 @@
 Tim Assesment 4 :
 
 - [Jeffry Junior Tedjasuklaksana](https://github.com/JeffreyJuinior) 
-- 
 - [Hanifah Nurfahmi](https://github.com/HanifahNurfahmi) 
-- 
 - [Muhammad Al-farisy](https://github.com/mhdalfarisy) 
 
 # Business Problem
