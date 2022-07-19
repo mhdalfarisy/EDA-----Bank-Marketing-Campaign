@@ -2,7 +2,7 @@
 
 <hr>
 
-[![cover]([https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/1.jpg))]([https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg](https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/1.jpg))]
+[![cover](https://github.com/mhdalfarisy/CRUD-Program-Stock-Barang-Gudang/blob/main/image/Linkedin.jpg)
 
 Latar Belakang : 
 [![LB]([https://github.com/mhdalfarisy/EDA-----Bank-Marketing-Campaign/blob/main/Image/2.jpg))]
